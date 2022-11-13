@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thisisbksharma
 - 👀 I’m interested in Full Stack Development.
 - 🌱 I’m currently learning React.js. 
-- 💞️ I’m looking to collaborate on JavaScript based Open Source Projects.
+- 💞️ I’m looking to contribute in JavaScript based Open Source Projects.
 - 📫 If you're struggling with JavaScript then hit me on [Twitter](https://twitter.com/thisisbksharma).
 
 <!---
